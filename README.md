@@ -15,7 +15,7 @@ PEG Markdown Highlight…
 - is __re-entrant__
 - is probably __slower__ than many simpler (but less correct) highlighting mechanisms but __faster__ than most Markdown compilers
 - works (at least) on __OS X, Linux and Windows__
-- is used in __shipping software__ ([Mou], [MacDown], [LightPaper], [Erato], [CuteMarkEd])
+- is used in __shipping software__ ([Mou], [MacDown], [LightPaper], [Erato], [CuteMarkEd], [QOwnNotes])
 - is dual-licensed under the __MIT and GPL2+__ licenses.
 
 [Mou]: http://mouapp.com/
@@ -23,6 +23,7 @@ PEG Markdown Highlight…
 [LightPaper]: http://clockworkengine.com/lightpaper-mac
 [Erato]: http://9muses.se/erato
 [CuteMarkEd]: http://cloose.github.io/CuteMarkEd
+[QOwnNotes]: http://www.qownnotes.org/
 
 This program uses the PEG grammar from John MacFarlane's `peg-markdown` project,
 and the `greg` parser generator by Why The Lucky Stiff and Amos Wenger (`greg`
